@@ -15,7 +15,7 @@ Instead of letting useful information disappear in chats, bookmarks, and notes, 
 * 🚇 [Transportation](transportation/)
 * 💰 Costs & budgeting
 * 💡 Tips & recommendations
-* ⚠️ Mistakes I made (so you don't have to)
+* ⚠️ [Mistakes I made (so you don't have to)](mistakes/)
 * 📚 Guides & checklists
 * 📝 Random discoveries along the way
 
