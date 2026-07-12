@@ -7,12 +7,12 @@ Instead of letting useful information disappear in chats, bookmarks, and notes, 
 ## What you'll find
 
 * 🛂 Visa & residence permit
-* 🏦 Banking & finances
+* 🏦 [Banking & finances](banking/)
 * 📱 Apps & useful services
 * 🎓 Student life
 * 🏠 Housing
 * 🌐 Internet & mobile
-* 🚇 Transportation
+* 🚇 [Transportation](transportation/)
 * 💰 Costs & budgeting
 * 💡 Tips & recommendations
 * ⚠️ Mistakes I made (so you don't have to)
