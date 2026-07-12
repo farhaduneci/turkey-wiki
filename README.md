@@ -1,4 +1,4 @@
-# 🇹 Turkey Wiki
+# 🇹🇷 Turkey Wiki
 
 A collection of everything I've learned while living in Turkey.
 
@@ -35,6 +35,6 @@ If this repository helped you, consider giving it a ⭐.
 
 Feel free to share, adapt, and build upon the content in this repository, as long as appropriate credit is given.
 
-Licensed under **CC BY 4.0**. See [LICENSE](LICENSE) for the full license text.
+Licensed under **CC BY 4.0**. See [LICENSE](LICENSE.md) for the full license text.
 
 
