@@ -15,3 +15,4 @@ Having a searchable digital copy of everything also makes it much easier to catc
 
 - [Document Translation: Original vs. Copy](document-translation.md)
 - [Date and Number Formats in Turkey](date-number-formats.md)
+- [The 90-Day Legal Stay Limit](../visa/90-day-legal-stay.md)

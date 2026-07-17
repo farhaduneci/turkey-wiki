@@ -22,3 +22,4 @@ The number formatting matters just as much as the date format — `1.234,56` in 
 
 - [Document Translation: Original vs. Copy](document-translation.md)
 - [Keeping Copies of Your Documents](document-management.md)
+- [The 90-Day Legal Stay Limit](../visa/90-day-legal-stay.md)
