@@ -16,6 +16,16 @@ Seats can be reserved online through İBB's library reservation system:
 
 From there you can pick a library location and reserve an available seat/time slot. The exact reservation flow, required login, and whether it needs a Turkish phone number to verify have changed over time, so treat the details as something that may change — check the site directly for current steps.
 
+## Zeytinburnu Millet Kıraathaneleri
+
+[Zeytinburnu](https://zeytinburnu.istanbul/) municipality runs its own "Millet Kıraathaneleri" (reading houses) separately from the İBB system above, and in my experience they're quite good. Details and locations are listed on the municipality's site:
+
+**[zeytinburnu.istanbul/hizmetler/millet-kiraathaneleri](https://zeytinburnu.istanbul/hizmetler/millet-kiraathaneleri/)**
+
+- **Online reservation:** the municipality has its own app, **Zeybim Online** ([Google Play](https://play.google.com/store/apps/details?id=com.development.zbandroidapp&hl=tr)), which can be used to reserve a seat and check in.
+- **In person:** you can also enter without a reservation using any valid ID card, but eligibility is generally restricted to people who live in the area or are studying at a university in Istanbul.
+- As with any municipal service, exact rules (which ID types are accepted, residency proof, whether non-residents/non-students can be admitted at all) can change — check the site or ask at the location if in doubt.
+
 ## Notes
 
 - Opening hours vary by branch and can differ on weekends or during holidays — check the specific library's page or the reservation site rather than assuming a standard schedule.
