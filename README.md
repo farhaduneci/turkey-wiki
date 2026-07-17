@@ -17,7 +17,7 @@ Instead of letting useful information disappear in chats, bookmarks, and notes, 
 * 💰 Costs & budgeting
 * 💡 Tips & recommendations
 * ⚠️ [Mistakes I made (so you don't have to)](mistakes/)
-* 📚 Guides & checklists
+* 📚 [Guides & checklists](guides/)
 * 📝 Random discoveries along the way
 * 📔 [Journal — firsthand experiences & feelings](journal/)
 
