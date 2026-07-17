@@ -18,6 +18,7 @@ Instead of letting useful information disappear in chats, bookmarks, and notes, 
 * ⚠️ [Mistakes I made (so you don't have to)](mistakes/)
 * 📚 Guides & checklists
 * 📝 Random discoveries along the way
+* 📔 [Journal — firsthand experiences & feelings](journal/)
 
 ## Why?
 
