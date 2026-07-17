@@ -12,7 +12,7 @@ Instead of letting useful information disappear in chats, bookmarks, and notes, 
 * 🎓 Student life
 * 🏠 Housing
 * 📚 [Libraries](libraries/)
-* 🌐 Internet & mobile
+* 🌐 [Internet & mobile](internet/)
 * 🚇 [Transportation](transportation/)
 * 💰 Costs & budgeting
 * 💡 Tips & recommendations
