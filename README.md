@@ -11,7 +11,7 @@ Instead of letting useful information disappear in chats, bookmarks, and notes, 
 * 📱 Apps & useful services
 * 🎓 Student life
 * 🏠 Housing
-* 🌐 Internet & mobile
+* 🌐 [Internet & mobile](internet/)
 * 🚇 [Transportation](transportation/)
 * 💰 Costs & budgeting
 * 💡 Tips & recommendations
