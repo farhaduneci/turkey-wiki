@@ -18,3 +18,7 @@ Once you apply to a university and your information is saved in Turkey's systems
 - A metrobus trip that would cost 2-4 fares on a full-price card usually costs just **1 ticket** on the student bundle — a big saving over the tourist/full-price rate
 
 > **Note:** I haven't documented the exact application steps for the student Istanbulkart yet (which office/app, required documents). Filling that in once I have it confirmed.
+
+## Tip: Pick the Newer Metrobus Buses
+
+The Metrobus (BRT) fleet is a mix of two generations — older Mercedes-Benz buses and newer Akia buses. On hot summer days, the newer Akia buses have much fresher air and noticeably better-working AC/cooling systems. Worth waiting for one instead of boarding the first older bus that arrives.
