@@ -6,7 +6,7 @@ Instead of letting useful information disappear in chats, bookmarks, and notes, 
 
 ## What you'll find
 
-* 🛂 Visa & residence permit
+* 🛂 [Visa & residence permit](visa/)
 * 🏦 [Banking & finances](banking/)
 * 📱 Apps & useful services
 * 🎓 Student life
