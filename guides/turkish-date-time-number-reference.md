@@ -61,7 +61,7 @@ Note: the week is generally considered to start on **Monday** in Turkey, and "Pa
 
 Turkish numbers compose the way English ones do (e.g. `yirmi bir` = 21, `yüz elli` = 150), but remember the [decimal/thousands separators are swapped](../mistakes/date-number-formats.md) compared to what you may be used to.
 
-I learned these using [Turkish Numbers](https://games.farhaduneci.com/html/turkish-numbers), a small practice game — worth a try if you're still building number fluency.
+I built a small practice game, [Turkish Numbers](https://games.farhaduneci.com/html/turkish-numbers), and use it myself to keep this fluent — worth a try if you're still building number fluency.
 
 ## Telling Time
 
