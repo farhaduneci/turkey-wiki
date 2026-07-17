@@ -23,3 +23,7 @@ Files within a directory should link to related files using relative paths (e.g.
 
 - Flag time-sensitive information (prices, fees, procedures) with a note that it may change.
 
+## Git Workflow
+
+- Do not open pull requests in this repo. Commit and push directly to `main`.
+
