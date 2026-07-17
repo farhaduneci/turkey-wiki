@@ -51,6 +51,10 @@ Note: the week is generally considered to start on **Monday** in Turkey, and "Pa
 | otuz | 30 |
 | kırk | 40 |
 | elli | 50 |
+| altmış | 60 |
+| yetmiş | 70 |
+| seksen | 80 |
+| doksan | 90 |
 | yüz | 100 |
 | bin | 1,000 |
 | milyon | 1,000,000 |

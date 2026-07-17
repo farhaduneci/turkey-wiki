@@ -27,6 +27,7 @@ There is no grace period you can count on. Treat the 90-day mark as a hard deadl
 - **Photograph the passport page with your photo and the page with your entrance stamp** as soon as you enter the country, and keep those photos accessible on your phone. See [Keeping Copies of Your Documents](../mistakes/document-management.md) for a more general approach to storing document photos and copies.
 - **Start your residence permit application well before the deadline**, not at the last minute — appointment slots can be booked out for weeks.
 - Double-check your entrance date and count the 90 days carefully. Given how [dates are written in Turkey](../mistakes/date-number-formats.md) (`DD.MM.YYYY`), make sure you're reading the stamp date correctly and not swapping day and month.
+- If you have questions about your residence permit or visa status, call **157**, the 24/7 YİMER (Foreigners Communication Center) hotline — see [Essential Daily Phrases](../guides/essential-daily-phrases.md) for details.
 
 ## Related
 

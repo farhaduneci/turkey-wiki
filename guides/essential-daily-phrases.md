@@ -54,6 +54,8 @@ Turkish has two forms of "you": informal **sen** and formal/plural **siz**. Use 
 
 **112** is the general emergency number in Turkey (police, ambulance, fire — all routed through one number).
 
+**157** is the dedicated, 24/7 hotline for the Foreigners Communication Center (**YİMER** — Yabancılar İletişim Merkezi), reachable in multiple languages, for questions about residence permits, visas, and other foreigner-specific issues.
+
 ## What Else Helps
 
 - Numbers and telling time — see the [Date, Time & Number Reference](turkish-date-time-number-reference.md).
