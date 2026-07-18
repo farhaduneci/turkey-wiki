@@ -19,3 +19,20 @@ Running notes from periodic documentation reviews. Each entry: what was checked,
 - `transportation/istanbulkart.md` has a self-flagged gap (student Istanbulkart application steps not yet documented) — already honestly marked as a known gap by the author, no action needed.
 
 **Not yet reviewed in depth:** prose quality/tone consistency across files, whether every "may change" claim is actually flagged as time-sensitive per the Contributing Conventions (spot-checked, looked fine), image/media assets (none present currently).
+
+## 2026-07-18 (later, same day — user-directed additions)
+
+Not a scan-driven review session; the repo owner requested specific additions/fixes directly, applied here and merged to `main`. Logged for continuity with the running review.
+
+**Added:**
+- `internet/sim-cards-and-mobile-data.md` — SIM card buying (retailer markup mistake, official pricing), eSIM's before-arrival activation rule, data plans, the 90/180-day SIM validity + residency-linking requirement, the 4-month IMEI registration rule, home broadband, LTE hotspots. Resolves the `FAQ.md`/dangling-reference gap noted above.
+- `README.md` — new "Where to Start" section: a curated, ordered reading path (before you leave → landing → first week → settling in → ID-number-gated stage → mistakes → journal), kept distinct from the existing categorical "What you'll find" index.
+- New `apps/` directory (`README.md`, `istanbul-senin-app.md` moved here from `internet/`, `istanbulkart-app.md`, `sahibinden.md`) — apps used in daily life, with a 🪪 marker for apps whose main features require a Turkish ID/foreigner ID number (i.e., need an open residence permit application first, not just a phone number). `istanbulkart-app.md` includes a "Mistake I made" callout about missing a PTT delivery of the student card.
+
+**Fixed:**
+- `README.md` — linked `DISCLAIMER.md` (previously unreachable from nav) and the previously-unlinked "Apps" placeholder bullet; corrected "Where to Start" so ID-gated apps (İstanbul Senin, İstanbulkart student card) moved out of "First week" into their own later stage — they'd silently fail for anyone without a Turkish ID number yet.
+- `mistakes/document-translation.md` — added missing `Related` section (one-directional cross-link gap).
+- `transportation/istanbulkart.md` — replaced the old "haven't documented the application steps yet" note with the actual process and a link to `apps/istanbulkart-app.md`.
+- Updated all cross-links across `internet/`, `apps/`, and `transportation/` after the `istanbul-senin-app.md` move; verified no broken relative links repo-wide.
+
+**Still open (unchanged from the entry above):** `FAQ.md` and `RESOURCES.md` remain empty and unlinked — still flagging for the repo owner's call (fill in vs. delete) rather than acting unilaterally.
