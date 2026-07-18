@@ -33,6 +33,10 @@ Found something outdated, incorrect, or missing? Feel free to open an issue or s
 
 If this repository helped you, consider giving it a ⭐.
 
+## Disclaimer
+
+This is personal experience, not legal/financial/immigration advice. See [DISCLAIMER.md](DISCLAIMER.md) before relying on anything here.
+
 ## License
 
 Feel free to share, adapt, and build upon the content in this repository, as long as appropriate credit is given.

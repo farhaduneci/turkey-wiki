@@ -18,3 +18,8 @@ Every page going through the noter must carry the office's **embossing seal** (*
 
 The UK government's guide on certifying documents is worth reading regardless of which country you're dealing with — the principles apply to Turkey as well:
 https://www.gov.uk/certifying-a-document
+
+## Related
+
+- [Date and Number Formats in Turkey](date-number-formats.md)
+- [Keeping Copies of Your Documents](document-management.md)
