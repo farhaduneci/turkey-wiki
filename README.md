@@ -23,7 +23,7 @@ The full topic index, for browsing or coming back to later:
 * 🛂 [Visa & residence permit](visa/)
 * 🏦 [Banking & finances](banking/)
 * 📱 [Apps](apps/)
-* 🎓 Student life
+* 🎓 [Student life](student-life/)
 * 🏠 Housing
 * 📚 [Libraries](libraries/)
 * 🌐 [Internet & mobile](internet/)
