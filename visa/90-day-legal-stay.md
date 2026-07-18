@@ -21,6 +21,12 @@ If you overstay without a valid residence permit in progress, you are not just f
 
 There is no grace period you can count on. Treat the 90-day mark as a hard deadline.
 
+## The Application Document
+
+Once your residence permit application is actually submitted (fingerprints done, application filed — e.g. via a university in a student case, see [Finding and Registering at a University in Istanbul](../student-life/finding-and-registering-university.md)), you should get a document back from the foreigners office (through whoever filed on your behalf) confirming you're in the waiting period.
+
+I believe — but haven't fully confirmed — that this document is what covers you past the 90-day mark: if the police stop you after your 90 days are technically up but your application is filed and pending, this is what you show them to prove you're legally in process rather than overstaying. **Don't rely on my word alone for this** — verify with 157 (YİMER) or a lawyer, and carry the document once you have it either way.
+
 ## Practical Precautions
 
 - **Always carry your passport (or residence permit card, once issued) with you.** Police checks can happen anywhere, at any time.
