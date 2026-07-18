@@ -48,7 +48,7 @@ If this repository helped you, consider giving it a ⭐.
 
 ## Disclaimer
 
-This is personal experience, not legal/financial/immigration advice. See [DISCLAIMER.md](DISCLAIMER.md) before relying on anything here.
+This is personal experience, not legal/financial/immigration advice. See [DISCLAIMER](DISCLAIMER.md) before relying on anything here.
 
 ## License
 
