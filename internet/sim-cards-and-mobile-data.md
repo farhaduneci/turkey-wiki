@@ -54,5 +54,5 @@ If you want portable home-style internet instead of a fixed line:
 ## Related
 
 - [Free WiFi in Istanbul](free-wifi.md)
-- [İstanbul Senin App](istanbul-senin-app.md)
+- [İstanbul Senin App](../apps/istanbul-senin-app.md)
 - [The 90-Day Legal Stay Limit](../visa/90-day-legal-stay.md)

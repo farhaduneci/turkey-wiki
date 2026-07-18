@@ -15,7 +15,7 @@ Coverage is denser in central, touristy, and high-density districts, and thinner
 
 1. Turn on WiFi and select the İBB WiFi (or similarly named municipal) network from the list.
 2. You'll be redirected to a login/captive portal page.
-3. Sign in with your phone number (SMS verification) — this is the same account system used by the [İstanbul Senin app](istanbul-senin-app.md), so if you've already registered there, you may be able to log in directly instead of re-verifying by SMS.
+3. Sign in with your phone number (SMS verification) — this is the same account system used by the [İstanbul Senin app](../apps/istanbul-senin-app.md), so if you've already registered there, you may be able to log in directly instead of re-verifying by SMS.
 4. Once verified, you get a free timed session; you typically need to reconnect/re-authenticate after the session expires or if you leave the hotspot's range.
 
 ## Practical notes
@@ -26,5 +26,5 @@ Coverage is denser in central, touristy, and high-density districts, and thinner
 
 ## Related
 
-- [İstanbul Senin App](istanbul-senin-app.md) — the app tied to WiFi login and other municipal services
+- [İstanbul Senin App](../apps/istanbul-senin-app.md) — the app tied to WiFi login and other municipal services
 - [SIM Cards, eSIM & Mobile Data](sim-cards-and-mobile-data.md) — getting a Turkish number for SMS verification

@@ -12,13 +12,15 @@ See also: [Arriving at Istanbul Airport (IST)](istanbul-airport.md)
 
 ## Student Istanbulkart (Discounted)
 
-Once you apply to a university and your information is saved in Turkey's systems, you become eligible to apply for a **student Istanbulkart**.
+🪪 Once you have an **open residence permit application** and your student status is registered, you become eligible to apply for a **student Istanbulkart**. The application itself is submitted through the [İstanbulkart App](../apps/istanbulkart-app.md) — see that page for the process and an important note about how the physical card gets delivered.
 
 - The student card works with prepaid ticket bundles rather than a straight balance — e.g. **200 tickets for 600 TL** (3 TL/ticket)
 - A metrobus trip that would cost 2-4 fares on a full-price card usually costs just **1 ticket** on the student bundle — a big saving over the tourist/full-price rate
 
-> **Note:** I haven't documented the exact application steps for the student Istanbulkart yet (which office/app, required documents). Filling that in once I have it confirmed.
-
 ## Tip: Pick the Newer Metrobus Buses
 
 The Metrobus (BRT) fleet is a mix of two generations — older Mercedes-Benz buses and newer Akia buses. On hot summer days, the newer Akia buses have much fresher air and noticeably better-working AC/cooling systems. Worth waiting for one instead of boarding the first older bus that arrives.
+
+## Related
+
+- [İstanbulkart App](../apps/istanbulkart-app.md) — applying for the student card and what to know before it ships via PTT
