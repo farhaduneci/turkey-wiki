@@ -20,10 +20,11 @@ Coverage is denser in central, touristy, and high-density districts, and thinner
 
 ## Practical notes
 
-- A working Turkish phone number is effectively required for the SMS verification step (not yet documented here — how to get a Turkish SIM as a foreigner)
+- A working Turkish phone number is effectively required for the SMS verification step — see [SIM Cards, eSIM & Mobile Data](sim-cards-and-mobile-data.md) for how to get one
 - Speed and reliability vary a lot by location and time of day; it's fine for messaging/maps but don't rely on it for anything bandwidth-heavy
 - Session limits and login flow are set by İBB and have changed over time (e.g. session length, whether the app account and WiFi login are unified) — treat the exact steps above as a general guide, not a guarantee, and expect to adapt on the spot
 
 ## Related
 
 - [İstanbul Senin App](istanbul-senin-app.md) — the app tied to WiFi login and other municipal services
+- [SIM Cards, eSIM & Mobile Data](sim-cards-and-mobile-data.md) — getting a Turkish number for SMS verification
