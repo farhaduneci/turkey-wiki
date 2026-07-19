@@ -36,3 +36,15 @@ Not a scan-driven review session; the repo owner requested specific additions/fi
 - Updated all cross-links across `internet/`, `apps/`, and `transportation/` after the `istanbul-senin-app.md` move; verified no broken relative links repo-wide.
 
 **Still open (unchanged from the entry above):** `FAQ.md` and `RESOURCES.md` remain empty and unlinked — still flagging for the repo owner's call (fill in vs. delete) rather than acting unilaterally.
+
+## 2026-07-19
+
+**Scanned:** Full repo again, focused on what changed since the last entry — new `student-life/` directory (`universities-in-istanbul.md`, `finding-and-registering-university.md`) added since. Checked: root README navigation still covers it, every directory README still lists all its files, no broken relative links repo-wide (scripted check), cross-link completeness for the new files against related existing docs.
+
+**Fixed (top 3):**
+
+1. **`student-life/finding-and-registering-university.md` listed "Diploma and transcript ... translated (and typically notarized)" as a required document but didn't link to `mistakes/document-translation.md`** — the existing doc about exactly this (original-vs-copy mistake, notarization cost, the embossing-seal requirement) was invisible to the one audience most likely to need it. Added the link inline, plus a reverse link back from `document-translation.md`'s "Related" section — previously one-directional.
+2. **Same file listed "A Turkish phone number" as a requirement with no link** — every other place in the repo that mentions needing a Turkish number (`free-wifi.md`, `sahibinden.md`) links to `internet/sim-cards-and-mobile-data.md`; this one didn't. Added the link for consistency.
+3. **`mistakes/document-translation.md`'s "Related" section was missing a link to `visa/90-day-legal-stay.md`** that its two sibling files (`date-number-formats.md`, `document-management.md`) both have — an inconsistency in an otherwise fully cross-linked trio. Added it (translation/notarization timing matters against the 90-day clock).
+
+**Left alone:** `FAQ.md`/`RESOURCES.md` still empty and unlinked — same open question for the repo owner as before, not re-flagging further. The `visa/90-day-legal-stay.md` → `finding-and-registering-university.md` link already existed bidirectionally (added in the file itself when student-life was written), so no action needed there. Root README's "Where to Start" ordered path still doesn't mention `student-life/` — left as-is since it's a niche path (not every reader is a student) already reachable via the categorical index, not a universal-path gap like the others.

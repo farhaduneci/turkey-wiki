@@ -23,3 +23,5 @@ https://www.gov.uk/certifying-a-document
 
 - [Date and Number Formats in Turkey](date-number-formats.md)
 - [Keeping Copies of Your Documents](document-management.md)
+- [The 90-Day Legal Stay Limit](../visa/90-day-legal-stay.md)
+- [Finding and Registering at a University in Istanbul](../student-life/finding-and-registering-university.md) — where this mistake is most likely to bite: diploma/transcript translation for registration

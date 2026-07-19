@@ -27,8 +27,8 @@ To register at a private university, you'll typically need:
 
 - A residential address (rental contract) in Turkey
 - Passport
-- Diploma and transcript from your prior education, both **translated** (and typically notarized)
-- A Turkish phone number
+- Diploma and transcript from your prior education, both **translated** (and typically notarized) — see [Document Translation: Original vs. Copy](../mistakes/document-translation.md) before you hand anything to a translator, it's an easy mistake to make and expensive to fix
+- A Turkish phone number — see [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md)
 - 3–4 biometric passport-style photos — see below
 
 ### Photo requirements
