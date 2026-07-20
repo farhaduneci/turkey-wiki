@@ -1,6 +1,6 @@
 # Opening a Bank Account
 
-See also: [Turkish Tax Number](tax-number.md) — required before you can get a SIM card, which is required before you can open a bank account.
+See also: [Turkish Tax Number](tax-number.md) and [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md) — get a SIM card first (its phone number is a required field on the tax number application), then the tax number, before trying to open an account.
 
 ## What to Expect
 

@@ -50,3 +50,15 @@ Not a scan-driven review session; the repo owner requested specific additions/fi
 **Left alone:** The `visa/90-day-legal-stay.md` → `finding-and-registering-university.md` link already existed bidirectionally (added in the file itself when student-life was written), so no action needed there. Root README's "Where to Start" ordered path still doesn't mention `student-life/` — left as-is since it's a niche path (not every reader is a student) already reachable via the categorical index, not a universal-path gap like the others.
 
 **Resolved:** `FAQ.md` and `RESOURCES.md` — the repo owner opted to delete rather than fill in. Removed (confirmed 0 bytes, unlinked from anywhere).
+
+## 2026-07-20
+
+**Scanned:** Full repo again — no commits since the last entry, so this was a from-scratch structural pass rather than a diff review. Checked: broken relative links (scripted, none found beyond the known non-link example path in `CLAUDE.md`), every directory `README.md` lists all files present (all do), root `README.md` nav and "Where to Start" order, cross-link completeness, and read every doc for factual self-consistency (not just link structure) since the last two sessions hadn't done that pass yet.
+
+**Fixed (found 1 real issue, not 3 — see note at bottom):**
+
+1. **Tax number / SIM / bank account prerequisite chain was contradictory and had the causality backwards.** `banking/tax-number.md` claimed "you need a tax number to get a SIM card," and `banking/bank-account.md` repeated that chain (tax number → SIM → bank account). But `internet/sim-cards-and-mobile-data.md`'s own explicit "what you need" list for a SIM is just address + passport — no tax number. Worse, `tax-number.md`'s own instructions list "Phone number" as a **required field** on the online tax number application — meaning the real dependency runs the other way: get a SIM first, use its number to apply for the tax number, then use both to open a bank account. This wasn't a style nit; a new arrival following the guide's own "Where to Start" order would have hit a required field they couldn't fill in. Fixed: reworded `tax-number.md` and `bank-account.md` to state the correct chain (SIM → tax number → bank account), added the missing cross-links between all three docs, and reordered `README.md`'s "First week" step to SIM Cards → Tax Number → Bank Account → Free WiFi → Sahibinden.
+
+**Left alone:** Everything else checked out — no broken links, no missing directory-README entries, `student-life/`, `apps/`, `internet/`, `mistakes/`, `visa/`, `transportation/`, `guides/`, `banking/`, `libraries/`, and `journal/` are all internally consistent and cross-linked both ways. Root README's "Where to Start" still doesn't mention `student-life/` — unchanged from the 07-19 call that this is fine (niche path, reachable via the categorical index).
+
+**Note on scope:** Only one high-impact issue turned up this pass, not three. Per the review rules, not inventing two more just to round out a quota — the repo is otherwise in good shape.

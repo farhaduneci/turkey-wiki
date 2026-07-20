@@ -1,8 +1,8 @@
 # Turkish Tax Number (Vergi Kimlik Numarası)
 
-You need a tax number to get a SIM card. You need a SIM card to open a bank account — do this first.
+Get a [SIM card](../internet/sim-cards-and-mobile-data.md) first — the online application below asks for a phone number as a required field. Once you have both a phone number and a tax number, you're ready to open a bank account.
 
-See also: [Opening a Bank Account](bank-account.md)
+See also: [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md), [Opening a Bank Account](bank-account.md)
 
 ## Getting Your Tax Number Online
 
