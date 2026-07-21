@@ -25,16 +25,26 @@ Bring the following to your appointment (exact list can vary by office and your 
   - **Renting off-campus**: a notarized copy of your rental contract, plus a utility bill in your name
 - A printout of your appointment confirmation
 
-Students may also need a Student Enrollment Certificate, downloadable from e-Devlet.
+Students may also need a Student Enrollment Certificate — see [e-Devlet](../guides/e-devlet.md#documents-you-can-collect) for how to generate one.
 
 At the office, you generally just show your appointment confirmation to the officers and they guide you through the rest.
+
+### UETS (e-Tebligat) — Not Needed for First-Time Applications
+
+**UETS** (the national electronic notification address, "e-Tebligat adresi") is only required if you already hold a residence permit, or held one within the last two months — e.g. for **renewal** applications. If this is your **first-time** application, you don't have one yet and it's not required.
+
+If you do need it later, you can get it at Sarıyer PTT with your passport, residence permit card, and Turkish phone number — say "**Göç İdaresi için UETS belgesi almak istiyorum**" (I'd like a UETS document for the Migration Directorate).
+
+Once your address is registered, you can pull an **Address Registration Certificate (Adres Belgesi / İkametgah)** from [e-Devlet](../guides/e-devlet.md) — you can't get this certificate before the in-person appointment is done.
 
 ## Related Guides
 
 - Koç University's International Community Office (ICO) publishes a [resources page](https://ico.ku.edu.tr/resources/) with guides on this and other topics, including a visual walkthrough of the address registration and information update appointment process.
 - [The 90-Day Legal Stay Limit](90-day-legal-stay.md) — why getting your residence permit application filed on time matters.
+- [e-Devlet (e-Government)](../guides/e-devlet.md) — pulling the Address Registration Certificate once you're done here.
 
 ## Sources
 
 - [ICO Resources — Koç University](https://ico.ku.edu.tr/resources/)
+- [ICO Resources — Registering Address](https://ico.ku.edu.tr/resources/registering-address/)
 - [randevu.goc.gov.tr](https://randevu.goc.gov.tr/#/homepage)
