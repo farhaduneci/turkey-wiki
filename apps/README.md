@@ -6,4 +6,5 @@ Mobile apps that are genuinely useful (or necessary) for daily life in Turkey.
 
 - 🪪 [İstanbul Senin App](istanbul-senin-app.md) — İBB's municipal app: WiFi sign-up, Kart discount applications, city services
 - 🪪 [İstanbulkart App](istanbulkart-app.md) — applying for the discounted/student Istanbulkart, and what to know before it ships via PTT
+- 🪪 [e-Devlet (e-Government)](e-devlet.md) — getting a password and pulling official documents online
 - [Sahibinden](sahibinden.md) — the classifieds app for finding housing, vehicles, and second-hand goods; no ID number needed
