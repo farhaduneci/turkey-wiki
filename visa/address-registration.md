@@ -4,6 +4,8 @@
 
 Once you have (or are applying for) a residence permit, you're expected to keep your registered address up to date with the Presidency of Migration Management (Göç İdaresi / PMM). This covers your **first address registration** and any **later address or information updates** (e.g. after moving).
 
+Before you lease a place for your application, see [Closed Neighborhoods (Kapalı Mahalle)](closed-neighborhoods.md) — some neighborhoods have historically been off-limits to new residence permit applications, though that restriction was lifted across Istanbul in June 2026.
+
 ## Book an Appointment
 
 Foreigners with a residence permit, work permit, or international/temporary protection status book these appointments through the migration directorate's own system, not the general civil registry one:
@@ -42,6 +44,7 @@ Once your address is registered, you can pull an **Address Registration Certific
 - Koç University's International Community Office (ICO) publishes a [resources page](https://ico.ku.edu.tr/resources/) with guides on this and other topics, including a visual walkthrough of the address registration and information update appointment process.
 - [The 90-Day Legal Stay Limit](90-day-legal-stay.md) — why getting your residence permit application filed on time matters.
 - [e-Devlet (e-Government)](../guides/e-devlet.md) — pulling the Address Registration Certificate once you're done here.
+- [Closed Neighborhoods (Kapalı Mahalle)](closed-neighborhoods.md) — check before you commit to an address.
 
 ## Sources
 
