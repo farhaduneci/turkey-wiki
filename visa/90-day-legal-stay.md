@@ -37,5 +37,6 @@ I believe — but haven't fully confirmed — that this document is what covers 
 
 ## Related
 
+- [Address Registration & Information Updates](address-registration.md)
 - [Date and Number Formats in Turkey](../mistakes/date-number-formats.md)
 - [Keeping Copies of Your Documents](../mistakes/document-management.md)
