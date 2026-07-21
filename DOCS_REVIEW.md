@@ -62,3 +62,15 @@ Not a scan-driven review session; the repo owner requested specific additions/fi
 **Left alone:** Everything else checked out — no broken links, no missing directory-README entries, `student-life/`, `apps/`, `internet/`, `mistakes/`, `visa/`, `transportation/`, `guides/`, `banking/`, `libraries/`, and `journal/` are all internally consistent and cross-linked both ways. Root README's "Where to Start" still doesn't mention `student-life/` — unchanged from the 07-19 call that this is fine (niche path, reachable via the categorical index).
 
 **Note on scope:** Only one high-impact issue turned up this pass, not three. Per the review rules, not inventing two more just to round out a quota — the repo is otherwise in good shape.
+
+## 2026-07-21
+
+**Scanned:** Full repo again — no commits since the 07-20 entry, so nothing new to review; this was a verification pass rather than a diff review. Re-checked: broken relative links (scripted, only the known non-link example path in `CLAUDE.md`), every directory `README.md` lists all files present (all do, checked programmatically), root `README.md` nav and "Where to Start" order still matches the current file set, and read every doc in full (banking, internet, apps, student-life, transportation, visa, mistakes, guides, journal, libraries) for cross-link completeness and practical usefulness.
+
+**Fixed:** Nothing. No issues rose to "high-impact" this pass.
+
+**Left alone:**
+- **Currency abbreviation inconsistency:** `mistakes/document-translation.md` and `transportation/istanbul-airport.md` use "TRY" for prices, while `transportation/istanbulkart.md` and `internet/sim-cards-and-mobile-data.md` use "TL". Both are valid; purely cosmetic, doesn't affect usability. Not fixed — didn't meet the bar for a "highest-impact" change, and forcing it would be busywork rather than a real find.
+- Everything else flagged in prior sessions as intentional (unlinked "Housing" / "Costs & budgeting" / "Tips & recommendations" / "Random discoveries" placeholder bullets in root `README.md`, `student-life/` not being in the "Where to Start" ordered path) remains unchanged — still considered correct as-is.
+
+**Conclusion:** Repo is in good shape. No new content landed since the last session, structural integrity (links, cross-links, README indices) holds, and no genuine high-impact gaps surfaced. Doing nothing this pass rather than inventing work.
