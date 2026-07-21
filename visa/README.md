@@ -11,3 +11,7 @@ Not Turkey-specific, but useful context for understanding why any of this exists
 - [When did we start using passports? — Kristin Surak](https://www.youtube.com/watch?v=JhxuP0AuRPA)
 - [Here's How To Get Travel Visas](https://www.youtube.com/watch?v=ZfIVH8RLY-Y)
 - [How do Visas Work?](https://www.youtube.com/watch?v=TFr7lEu9XbQ)
+
+## Reference
+
+- [Visa requirements for Iranian citizens (Wikipedia)](https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens)
