@@ -25,7 +25,7 @@ Universities frequently offer discounts off the listed tuition — it's worth as
 
 To register at a private university, you'll typically need:
 
-- A residential address (rental contract) in Turkey
+- A residential address (rental contract) in Turkey — check [Closed Neighborhoods (Kapalı Mahalle)](../visa/closed-neighborhoods.md) before you sign a lease
 - Passport
 - Diploma and transcript from your prior education, both **translated** (and typically notarized) — see [Document Translation: Original vs. Copy](../mistakes/document-translation.md) before you hand anything to a translator, it's an easy mistake to make and expensive to fix
 - A Turkish phone number — see [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md)
@@ -54,8 +54,14 @@ Once you've picked a university, the rough sequence is:
 2. Receive an offer/acceptance letter.
 3. Complete in-person registration on the date the university gives you.
 4. Submit your documents to the university; the university then starts your residence permit application with the Turkish government on your behalf.
-5. Go to a Provincial Directorate of Migration Management (foreigners/göç idaresi) branch to register your fingerprints.
+5. Go to a Provincial Directorate of Migration Management (foreigners/göç idaresi) branch to register your fingerprints — see [Address Registration & Information Updates](../visa/address-registration.md) for how this appointment is booked and what to bring.
 6. The university proceeds with the residence permit application using your fingerprint registration.
 7. Wait for the residence permit card to arrive.
 
 Once your application is filed, the university passes you a document from the foreigners office confirming you're in the waiting period. See [The 90-Day Legal Stay Limit](../visa/90-day-legal-stay.md#the-application-document) — I believe (not fully confirmed) this document is what protects you if you're stopped by police after your original 90 days but while your residence permit is still pending.
+
+## Related
+
+- [The 90-Day Legal Stay Limit](../visa/90-day-legal-stay.md)
+- [Address Registration & Information Updates](../visa/address-registration.md)
+- [Document Translation: Original vs. Copy](../mistakes/document-translation.md)
