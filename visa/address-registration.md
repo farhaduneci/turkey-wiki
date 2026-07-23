@@ -39,9 +39,8 @@ If you do need it later, you can get it at Sarıyer PTT with your passport, resi
 
 Once your address is registered, you can pull an **Address Registration Certificate (Adres Belgesi / İkametgah)** from [e-Devlet](../apps/e-devlet.md) — you can't get this certificate before the in-person appointment is done.
 
-## Related Guides
+## Related
 
-- Koç University's International Community Office (ICO) publishes a [resources page](https://ico.ku.edu.tr/resources/) with guides on this and other topics, including a visual walkthrough of the address registration and information update appointment process.
 - [The 90-Day Legal Stay Limit](90-day-legal-stay.md) — why getting your residence permit application filed on time matters.
 - [e-Devlet (e-Government)](../apps/e-devlet.md) — pulling the Address Registration Certificate once you're done here.
 - [Closed Neighborhoods (Kapalı Mahalle)](closed-neighborhoods.md) — check before you commit to an address.
