@@ -1,6 +1,6 @@
 # Opening a Bank Account
 
-See also: [Turkish Tax Number](tax-number.md) and [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md) — get a SIM card first (its phone number is a required field on the tax number application), then the tax number, before trying to open an account.
+Get a SIM card first (its phone number is a required field on the tax number application), then the [tax number](tax-number.md), before trying to open an account.
 
 ## What to Expect
 
@@ -15,6 +15,11 @@ Yapı Kredi is one bank commonly recommended by university international offices
 ## Agent Route
 
 Getting a bank account independently seems difficult. Many people go through immigration agents for this step.
+
+## Related
+
+- [Turkish Tax Number](tax-number.md) — required before opening an account
+- [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md) — required before the tax number
 
 ## Sources
 

@@ -2,8 +2,6 @@
 
 Get a [SIM card](../internet/sim-cards-and-mobile-data.md) first — the online application below asks for a phone number as a required field. Once you have both a phone number and a tax number, you're ready to open a bank account.
 
-See also: [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md), [Opening a Bank Account](bank-account.md)
-
 ## Getting Your Tax Number Online
 
 1. Go to https://dijital.gib.gov.tr/
@@ -30,6 +28,11 @@ After submitting, the system immediately issues a 10-digit tax number — labele
 ## In-Person Alternative
 
 You can also get a tax number by visiting any local Tax Office (Vergi Dairesi) — the transaction usually takes about 15 minutes.
+
+## Related
+
+- [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md) — get this first, its phone number is required above
+- [Opening a Bank Account](bank-account.md) — the next step once you have a tax number
 
 ## Sources
 

@@ -2,6 +2,8 @@
 
 After landing, expect a 10–15 minute walk to passport control.
 
+See also: [Istanbulkart](istanbulkart.md) for fares and how the card itself works.
+
 ## Passport Check
 
 Officers check your passport, take fingerprints, and stamp your entry. The queue is long. The officer didn't ask me anything.

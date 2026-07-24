@@ -19,3 +19,7 @@ This is one of the real downsides of being an expat here. It's not a single bad 
 ## My Advice
 
 If you're thinking about moving to Turkey and you don't speak Turkish: learn the language beforehand. Even a working level of Turkish would remove a huge amount of friction from daily life here, especially for anything involving government offices, legal paperwork, or getting real help when you need it. It's far easier to build that foundation before you arrive than to try to catch up while you're already navigating everything else that comes with starting a new life in a new country.
+
+## Related
+
+- [Essential Daily Phrases](../guides/essential-daily-phrases.md) — a minimal survival phrasebook if you're starting from zero
