@@ -10,6 +10,8 @@ Sahibinden ("from the owner" in Turkish) is the leading online classifieds and s
 
 It's a must-have app if you're apartment hunting or furnishing a place — far more listings than any other platform in Turkey.
 
+Before signing a lease found here, check [Closed Neighborhoods (Kapalı Mahalle)](../visa/closed-neighborhoods.md) — some neighborhoods have historically been restricted for new residence permit applications.
+
 ## Signing up
 
 You can open an account with just a phone number — no Turkish ID/foreigner ID number required to browse or create a basic account.
@@ -17,3 +19,4 @@ You can open an account with just a phone number — no Turkish ID/foreigner ID 
 ## Related
 
 - [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md) — you'll want a Turkish number to sign up and contact sellers
+- [Closed Neighborhoods (Kapalı Mahalle)](../visa/closed-neighborhoods.md) — check before you commit to an address found here
