@@ -10,7 +10,7 @@ If you have the original document, hand it over in person and explicitly ask the
 
 ## Notarization
 
-Every translated document in Turkey must then be notarized at a **noter** (notary office). This costs around **1,700 TRY per page** of translation.
+Every translated document in Turkey must then be notarized at a **noter** (notary office). This costs around **1,700 TRY per page** of translation (fees change often — treat this as a rough estimate, not current pricing).
 
 Every page going through the noter must carry the office's **embossing seal** (*kabartma mühür* in Turkish) — a physical press that leaves a raised impression directly in the paper, with no ink. It's distinct from a regular rubber stamp. Make sure every page has it before you leave the noter; a page without it won't be considered properly notarized.
 
