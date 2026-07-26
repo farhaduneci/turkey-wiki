@@ -26,4 +26,5 @@ Files within a directory should link to related files using relative paths (e.g.
 ## Git Workflow
 
 - Do not open pull requests in this repo. Commit and push directly to `main`.
+- If a session is set up to develop on a feature branch (e.g. a scheduled/automated session), merge that branch into `main` and push `main` yourself at the end of the session — do not leave finished work stranded on a branch, and do not ask for confirmation before merging/pushing to `main`.
 
