@@ -2,8 +2,6 @@
 
 After landing, expect a 10–15 minute walk to passport control.
 
-See also: [Istanbulkart](istanbulkart.md) for fares and how the card itself works.
-
 ## Passport Check
 
 Officers check your passport, take fingerprints, and stamp your entry. The queue is long. The officer didn't ask me anything.
@@ -31,3 +29,7 @@ Cash is not accepted for public transport — you need an **Istanbul Card** or a
 ## Language
 
 Most people outside tourist areas and younger crowds don't speak any English — not even basic words. Download Turkish in Google Translate for offline use, and download your Google Maps area offline before you arrive.
+
+## Related
+
+- [Istanbulkart](istanbulkart.md) — fares and how the card itself works
