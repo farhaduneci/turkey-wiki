@@ -1,12 +1,14 @@
 # e-Devlet (e-Government)
 
+🪪 **Requires a Turkish ID / foreigner ID number (Yabancı Kimlik Numarası)** — see below.
+
 e-Devlet (e-Government) is Turkey's online portal for government services — you can pull your Address Registration Certificate, a Student Enrollment Certificate, a Social Security activation document, book public hospital appointments, and more, all without visiting an office in person.
 
-> ⚠️ You need a residence permit before you can get e-Devlet access (a foreigner ID number tied to a registered address). Children under 15 can't log in on their own — a parent can collect documents for them if the child already has a foreign ID number and a registered address.
+> ⚠️ You need an active residence permit application (a foreigner ID number tied to a registered address) before you can get e-Devlet access. Children under 15 can't log in on their own — a parent can collect documents for them if the child already has a foreign ID number and a registered address.
 
 ## Getting a Password
 
-- **In person (PTT / post office):** the simplest route. Go to any PTT branch with your passport, residence permit card, and an active Turkish phone number, and say "**e-Devlet şifresi almak istiyorum**" (I'd like to get an e-Devlet password). Staff will register your Turkish phone number and text you the password — this cost around **2 TL** as of writing.
+- **In person (PTT / post office):** the simplest route. Go to any PTT branch with your passport, residence permit card, and an active Turkish phone number, and say "**e-Devlet şifresi almak istiyorum**" (I'd like to get an e-Devlet password). Staff will register your Turkish phone number and text you the password — this cost around **2 TL** as of writing (may change).
 - **Internet banking:** if you already have a Turkish bank account with internet banking set up, you can skip the PTT step — the e-Devlet login page has an internet banking option that lets you in directly.
 
 ## Documents You Can Collect

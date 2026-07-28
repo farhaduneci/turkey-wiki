@@ -4,7 +4,7 @@ Istanbul has many types of public transport — metro, metrobus (BRT), regular b
 
 ## Full-Price / Tourist Card Fares
 
-- Metrobus (BRT) alone is currently **62 TL per ride** on a tourist/full-price card
+- Metrobus (BRT) alone is currently **62 TL per ride** on a tourist/full-price card (may change — verify before relying on it)
 - Transfers add up — a single commute that touches 2-4 vehicles (bus + metrobus + metro, etc.) can rack up close to a full fare on each leg
 - If you're commuting a heavy-to-mid distance daily on a full-price card, monthly transport cost can easily hit **800–1,000 TL** (unconfirmed — rough estimate based on daily heavy usage)
 
