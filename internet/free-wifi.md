@@ -7,7 +7,7 @@ Istanbul Metropolitan Municipality (İBB) runs a free public WiFi network ("İBB
 - Major squares and parks (e.g. around Taksim, Sultanahmet)
 - Some metro/metrobus stations and public buses
 - Ferries operated by Şehir Hatları
-- Some municipal buildings and public libraries
+- Some municipal buildings and public libraries (see [Istanbul Public Libraries](../libraries/istanbul-public-libraries.md))
 
 Coverage is denser in central, touristy, and high-density districts, and thinner further out — don't count on it as your only source of connectivity outside the city center.
 
