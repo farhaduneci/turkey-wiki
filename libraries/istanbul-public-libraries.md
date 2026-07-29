@@ -31,3 +31,7 @@ From there you can pick a library location and reserve an available seat/time sl
 - Opening hours vary by branch and can differ on weekends or during holidays — check the specific library's page or the reservation site rather than assuming a standard schedule.
 - Some libraries specialize (children's collections, academic/research collections, 24-hour study halls), while others are small neighborhood branches.
 - Procedures, required documents, and the reservation system itself are the kind of thing that changes without much notice — this page reflects personal experience and public information at the time of writing, not an official guarantee.
+
+## Related
+
+- [Free WiFi in Istanbul](../internet/free-wifi.md) — İBB's public WiFi network, available at some library branches
