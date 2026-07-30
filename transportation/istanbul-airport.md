@@ -2,8 +2,6 @@
 
 After landing, expect a 10–15 minute walk to passport control.
 
-See also: [Istanbulkart](istanbulkart.md) for fares and how the card itself works.
-
 ## Passport Check
 
 Officers check your passport, take fingerprints, and stamp your entry. The queue is long. The officer didn't ask me anything.
@@ -24,10 +22,14 @@ Cash is not accepted for public transport — you need an **Istanbul Card** or a
 
 - In the arrivals hall there are Ziraat Bank branches and currency exchange booths
 - Istanbul Card: I'm not sure where to get one inside the airport — I brought mine from a friend who had visited before. Charge it at any exchange booth.
-- Bus fare: ~400 TRY
+- Bus fare from the airport: ~400 TRY (unconfirmed, may change) — this is the dedicated airport shuttle bus, a different network from the in-city metrobus covered in [Istanbulkart](istanbulkart.md), which is far cheaper per ride. Still payable with the Istanbul Card.
 - Istanbul Card reportedly has a monthly top-up limit of 2,500 TRY (unconfirmed)
 - Google Maps works well for navigation; the driver announces each stop
 
 ## Language
 
 Most people outside tourist areas and younger crowds don't speak any English — not even basic words. Download Turkish in Google Translate for offline use, and download your Google Maps area offline before you arrive.
+
+## Related
+
+- [Istanbulkart](istanbulkart.md) — fares and how the card itself works

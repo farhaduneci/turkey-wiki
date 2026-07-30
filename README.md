@@ -11,10 +11,11 @@ New here and about to move to Turkey? The full index below is organized by topic
 1. **Before you leave** — [The 90-Day Legal Stay Limit](visa/90-day-legal-stay.md) (understand your legal clock before you land), and the eSIM note in [SIM Cards, eSIM & Mobile Data](internet/sim-cards-and-mobile-data.md) if you want one active on arrival
 2. **Landing** — [Arriving at Istanbul Airport (IST)](transportation/istanbul-airport.md), then [Istanbulkart](transportation/istanbulkart.md) (full/tourist fare — you can't get the discounted card yet) to get around
 3. **First week** — [SIM Cards, eSIM & Mobile Data](internet/sim-cards-and-mobile-data.md) → [Turkish Tax Number](banking/tax-number.md) (needs a phone number) → [Opening a Bank Account](banking/bank-account.md) (needs both) → [Free WiFi](internet/free-wifi.md) → [Sahibinden](apps/sahibinden.md) if you're still house-hunting
-4. **Settling in** — [Turkish Date, Time & Number Reference](guides/turkish-date-time-number-reference.md), [Essential Daily Phrases](guides/essential-daily-phrases.md), [Istanbul Public Libraries](libraries/istanbul-public-libraries.md)
-5. **Once your residence permit application is open** — this is when a Turkish ID/foreigner ID number exists for you, unlocking [İstanbul Senin App](apps/istanbul-senin-app.md) and the discounted [İstanbulkart App](apps/istanbulkart-app.md) application (see the [Apps](apps/) index — 🪪 marks what needs the ID number)
-6. **Avoid these mistakes** — skim everything in [Mistakes I made](mistakes/) before you deal with any official paperwork
-7. **The honest part** — the [Journal](journal/) for what it actually feels like day to day, once the logistics are handled
+4. **File your residence permit application** — check [Closed Neighborhoods](visa/closed-neighborhoods.md) before signing a lease, then book your [Address Registration](visa/address-registration.md) appointment to get the process moving before your 90 days run out. (Students: your university usually files this for you — see [Finding and Registering at a University](student-life/finding-and-registering-university.md).)
+5. **Settling in** — [Turkish Date, Time & Number Reference](guides/turkish-date-time-number-reference.md), [Essential Daily Phrases](guides/essential-daily-phrases.md), [Istanbul Public Libraries](libraries/istanbul-public-libraries.md)
+6. **Once your residence permit application is open** — this is when a Turkish ID/foreigner ID number exists for you, unlocking [İstanbul Senin App](apps/istanbul-senin-app.md) and the discounted [İstanbulkart App](apps/istanbulkart-app.md) application (see the [Apps](apps/) index — 🪪 marks what needs the ID number)
+7. **Avoid these mistakes** — skim everything in [Mistakes I made](mistakes/) before you deal with any official paperwork
+8. **The honest part** — the [Journal](journal/) for what it actually feels like day to day, once the logistics are handled
 
 ## What you'll find
 

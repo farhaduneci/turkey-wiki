@@ -6,7 +6,7 @@ The three main carriers — **Türk Telekom**, **Turkcell**, and **Vodafone** �
 
 **What you need:** just an address (can be a friend's — you don't need to be the resident) and your passport. No residency permit required to get your first SIM.
 
-> **Mistake I made:** I bought my first SIM from an independent retailer and paid **2,500 TL**. Going directly to an official Türk Telekom branch, the standard price at the time was **1,500 TL** — resellers were pocketing the difference as their own markup, not passing on a carrier fee. Go to the carrier's own branch, not a third-party retailer, unless the retailer's price is clearly at or below the official one.
+> **Mistake I made:** I bought my first SIM from an independent retailer and paid **2,500 TL**. Going directly to an official Türk Telekom branch, the standard price at the time was **1,500 TL** — resellers were pocketing the difference as their own markup, not passing on a carrier fee. Go to the carrier's own branch, not a third-party retailer, unless the retailer's price is clearly at or below the official one. (Both prices will drift over time — check current pricing before you go.)
 
 Before you arrive, it's worth checking the carriers' websites directly (Türk Telekom, Turkcell, Vodafone) — pricing, locations, required documents, and in some cases online purchase are all listed there, and you may not need an in-person visit at all.
 
@@ -18,7 +18,7 @@ All three carriers, plus third-party eSIM providers, offer eSIM in Turkey. The c
 
 Regular prepaid data packages run roughly **500–600 TL** for 10–20 GB (prices change often — treat this as a rough band, not a quote).
 
-- **Türk Telekom** has a **100 GB for ~1,200 TL** package, which was the best price-per-GB I found on their network.
+- **Türk Telekom** has a **100 GB for ~1,200 TL** package (prices change often), which was the best price-per-GB I found on their network.
 - **Turkcell** ("Tork Sell") tends to have better *starter* offers for a new subscription than Türk Telekom. If you're optimizing for the first package specifically, I'd lean Turkcell over Türk Telekom.
 - I don't have first-hand data on Vodafone's plans.
 

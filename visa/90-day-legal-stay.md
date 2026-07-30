@@ -9,7 +9,7 @@ Your legal stay in Turkey starts on your **entrance date** — the date stamped 
 You must either:
 
 - Leave the country before the 90 days are up, or
-- Complete your **residence permit (ikamet)** application and have it approved/in process before the 90 days expire.
+- Complete your **residence permit (ikamet)** application and have it approved/in process before the 90 days expire — see [Address Registration & Information Updates](address-registration.md#submitting-the-application-itself) for where the application itself gets filed.
 
 ## Why This Matters So Much
 

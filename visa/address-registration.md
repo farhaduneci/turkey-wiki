@@ -6,6 +6,12 @@ Once you have (or are applying for) a residence permit, you're expected to keep 
 
 Before you lease a place for your application, see [Closed Neighborhoods (Kapalı Mahalle)](closed-neighborhoods.md) — some neighborhoods have historically been off-limits to new residence permit applications, though that restriction was lifted across Istanbul in June 2026.
 
+## Submitting the Application Itself
+
+This page covers the appointment/registration step, not the initial application. If a university (or employer) isn't filing on your behalf — see [Finding and Registering at a University](../student-life/finding-and-registering-university.md) for the student case — the residence permit application itself is submitted online at **[e-ikamet.goc.gov.tr](https://e-ikamet.goc.gov.tr/)**, the Migration Directorate's application portal. That's a different system from `randevu.goc.gov.tr` below, which is for booking the in-person appointment that follows.
+
+**I haven't personally gone through the independent (non-university) application on e-ikamet, so I can't walk through those exact steps yet** — my own experience is via a university filing on my behalf. If you're applying on your own, verify the current process with **157** (YİMER) or your local PDMM office before relying on anything here.
+
 ## Book an Appointment
 
 Foreigners with a residence permit, work permit, or international/temporary protection status book these appointments through the migration directorate's own system, not the general civil registry one:
@@ -39,7 +45,7 @@ If you do need it later, you can get it at Sarıyer PTT with your passport, resi
 
 Once your address is registered, you can pull an **Address Registration Certificate (Adres Belgesi / İkametgah)** from [e-Devlet](../apps/e-devlet.md) — you can't get this certificate before the in-person appointment is done.
 
-## Related Guides
+## Related
 
 - Koç University's International Community Office (ICO) publishes a [resources page](https://ico.ku.edu.tr/resources/) with guides on this and other topics, including a visual walkthrough of the address registration and information update appointment process.
 - [The 90-Day Legal Stay Limit](90-day-legal-stay.md) — why getting your residence permit application filed on time matters.
