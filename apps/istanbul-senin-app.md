@@ -15,7 +15,7 @@
 ## Signing up
 
 - Available on both the App Store and Google Play — search "İstanbul Senin"
-- Registration typically asks for your phone number (Turkish number) and an SMS verification code
+- Registration typically asks for your phone number (Turkish number — see [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md)) and an SMS verification code
 - **The Kart discount and benefit applications require a Turkish ID/foreigner ID number (Yabancı Kimlik Numarası)** — meaning you'll need an active residence permit application before those features work, not just a Turkish SIM. Basic WiFi sign-up doesn't need it.
 - The interface is in Turkish by default; some sections have partial English support depending on app version
 
@@ -25,4 +25,5 @@
 
 - [İstanbulkart App](istanbulkart-app.md) — applying for the discounted/student card through this app
 - [Free WiFi in Istanbul](../internet/free-wifi.md) — how the WiFi access tied to this app actually works
+- [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md) — getting the Turkish number this app's signup needs
 - [The 90-Day Legal Stay Limit](../visa/90-day-legal-stay.md) — why you need a residence permit application before your ID number exists
