@@ -24,18 +24,18 @@ Regular prepaid data packages run roughly **500–600 TL** for 10–20 GB (price
 
 ## SIM Validity & Linking to Residency
 
-A SIM registered on a foreign passport (tourist/student basis) is deactivated automatically after **90 days**, with an option to extend once, up to **180 days**.
+A SIM registered on a foreign passport (tourist/student basis) is deactivated automatically after **90 days**, with an option to extend once, up to **180 days** (rules like this can change — verify current terms with your carrier).
 
 Turkish law requires your phone number to be linked to an identity record. If you're staying longer than that window, you need to get your **residence permit (ikamet)** and link your SIM to it — otherwise the line gets deactivated once the initial period runs out. See [The 90-Day Legal Stay Limit](../visa/90-day-legal-stay.md).
 
 ## IMEI Registration (Important — Affects Your Phone, Not Just the SIM)
 
-Turkey registers phones by **IMEI**, separately from the SIM. A foreign phone's IMEI is only valid on Turkish networks for **4 months (~120 days)** from first use. After that, the phone itself — not the SIM — gets blocked from connecting to any Turkish carrier, regardless of which SIM is in it.
+Turkey registers phones by **IMEI**, separately from the SIM. A foreign phone's IMEI is only valid on Turkish networks for **4 months (~120 days)** from first use (this window has changed before and could change again — verify before relying on it). After that, the phone itself — not the SIM — gets blocked from connecting to any Turkish carrier, regardless of which SIM is in it.
 
 - To keep using the same phone past that window, you have to register the IMEI with the Turkish government and pay a registration fee. I believe this was somewhere around **60,000 TL**, but I'm not confident in that number — verify the current fee before relying on it.
 - **Dual-SIM phones have two separate IMEIs**, one per slot, so switching which slot is active effectively buys you a second 4-month window before you hit the same wall.
 - The alternative to paying is switching to a different phone (or a phone already registered/bought in Turkey) once the window closes.
-- Registration is limited to **one device per person/passport every three years**.
+- Registration is limited to **one device per person/passport every three years** (another rule worth reconfirming before you rely on it, since these limits do change).
 - If you overshoot the 120 days without registering, the phone gets blocked from making/receiving calls on any Turkish carrier — other features (data, WiFi, emergency calls) reportedly keep working.
 
 **How to register:** log into [e-Devlet](../apps/e-devlet.md) and use the **IMEI Kaydet** section (there's an official video walkthrough linked from the e-Devlet site). If your residence permit hasn't come through yet by the 120-day mark, you can alternatively register the phone in person at a carrier branch (Turkcell, Türk Telekom, Vodafone) — they charge their own service fee for this.
