@@ -58,6 +58,8 @@ Once you've picked a university, the rough sequence is:
 6. The university proceeds with the residence permit application using your fingerprint registration.
 7. Wait for the residence permit card to arrive.
 
+**Not covered above:** the residence permit process typically also involves a mandatory health insurance requirement and an application/card fee (harç). In my case the university's international office handled these as part of the process, so I don't have firsthand details on the amounts or how to arrange them independently — ask your university's international office directly.
+
 Once your application is filed, the university passes you a document from the foreigners office confirming you're in the waiting period. See [The 90-Day Legal Stay Limit](../visa/90-day-legal-stay.md#the-application-document) — I believe (not fully confirmed) this document is what protects you if you're stopped by police after your original 90 days but while your residence permit is still pending.
 
 ## Related

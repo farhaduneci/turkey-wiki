@@ -30,7 +30,7 @@ Bring the following to your appointment (exact list can vary by office and your 
 - Passport, plus a photocopy of the passport ID page
 - Proof of your address:
   - **University housing**: a housing/residency document from your university's housing department (in Turkish)
-  - **Renting off-campus**: a notarized copy of your rental contract, plus a utility bill in your name
+  - **Renting off-campus**: a notarized copy of your rental contract, plus a utility bill in your name (a new lease's electricity/water account is usually still under the landlord's or previous tenant's name — you'll likely need to request a subscriber transfer, "**abonelik devri**," with the utility provider first; I haven't documented that process here yet)
 - A printout of your appointment confirmation
 
 Students may also need a Student Enrollment Certificate — see [e-Devlet](../apps/e-devlet.md#documents-you-can-collect) for how to generate one.
