@@ -2,6 +2,10 @@
 
 Istanbul has many types of public transport — metro, metrobus (BRT), regular buses, trams, ferries, funiculars — and they all run through one card: the **Istanbulkart**. Before I switched to a discounted card, it was one of my main monthly expenses.
 
+## Getting the Card
+
+I'm not sure where to get a first physical card — I brought mine from a friend who had visited before, and charged it at an exchange booth in the arrivals hall (see [Arriving at Istanbul Airport](istanbul-airport.md)). Kiosks at metro/tram/funicular stations reportedly sell them too, but I haven't confirmed that firsthand. If you're arriving without one already, verify at the airport or your first station before relying on this.
+
 ## Full-Price / Tourist Card Fares
 
 - Metrobus (BRT) alone is currently **62 TL per ride** on a tourist/full-price card (may change — verify before relying on it)

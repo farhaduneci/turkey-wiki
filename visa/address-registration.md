@@ -47,10 +47,10 @@ Once your address is registered, you can pull an **Address Registration Certific
 
 ## Related
 
-- Koç University's International Community Office (ICO) publishes a [resources page](https://ico.ku.edu.tr/resources/) with guides on this and other topics, including a visual walkthrough of the address registration and information update appointment process.
 - [The 90-Day Legal Stay Limit](90-day-legal-stay.md) — why getting your residence permit application filed on time matters.
 - [e-Devlet (e-Government)](../apps/e-devlet.md) — pulling the Address Registration Certificate once you're done here.
 - [Closed Neighborhoods (Kapalı Mahalle)](closed-neighborhoods.md) — check before you commit to an address.
+- [Opening a Bank Account](../banking/bank-account.md) — hits the same utility-bill-not-in-your-name issue.
 
 ## Sources
 

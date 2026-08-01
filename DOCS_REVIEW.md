@@ -194,3 +194,22 @@ Not a scan-driven review session; the repo owner requested specific additions/fi
 **Left alone:** An odd aside in `internet/sim-cards-and-mobile-data.md` ("Turkcell (\"Tork Sell\")") reads as an unexplained phonetic joke — cosmetic, very low impact, not worth a fix this pass. All previously-flagged open items unchanged, still awaiting the repo owner: `banking/tax-number.md`'s "Address in Turkey" field ambiguity, and the 🏠 Housing placeholder bullet in root README (no dedicated directory).
 
 **Note on scope:** Per the recurring sync-failure pattern, future sessions should treat every "fixed the sync" claim in this log (including this one) as unverified until re-confirmed with a fresh `git fetch origin main`.
+
+## 2026-08-01
+
+**Housekeeping:** Verified `origin/main` directly via `git fetch origin --prune` and confirmed its SHA matched the branch's starting point exactly (`3f32ad0`) before doing any work — no sync gap this time, unlike the four prior sessions logged above.
+
+**Scanned:** No content commits since the 07-31 entry, so another from-scratch pass (delegated to a subagent for the full read-through, per the established pattern). Checked: relative + anchor link integrity (scripted, clean beyond the known `CLAUDE.md` example path), full cross-link reciprocity graph (filtered for the established hub-doc pattern), the `## Related`-footer convention, and a practicality read of every file (does it actually walk the reader through the thing it exists to help with).
+
+**Fixed (top 3):**
+
+1. **`visa/address-registration.md`'s `## Related` section broke the internal-links-only convention and duplicated a link.** Its first bullet was an external ICO resources page — every other `## Related` section in the repo (18 other files) contains only internal relative links, with external attribution kept in a separate `## Sources` section, which this same file already had. The ICO link appeared verbatim in both places. Removed the duplicate from `## Related`; it's still present in `## Sources`.
+2. **`transportation/istanbulkart.md` — the hub doc for the Istanbulkart, and the doc README's "Where to Start" step 2 sends every new arrival to — never covered how to actually get a first physical card.** Only `transportation/istanbul-airport.md` mentioned it, buried in an aside ("I brought mine from a friend"), and only in the direction of charging it, not obtaining it. A reader without a friend's spare card had no path in the wiki to get one. Added a "Getting the Card" section to `istanbulkart.md` with the same honest gap — kiosks at stations reportedly sell them but unconfirmed — rather than inventing a purchase process I haven't personally verified.
+3. **One-directional link: `banking/bank-account.md` links to `visa/address-registration.md#required-documents` for the utility-bill-not-in-your-name caveat, but `address-registration.md` didn't link back**, despite both docs requiring the same document for the same reason (new lease, utility still under landlord's name). Added `bank-account.md` to `address-registration.md`'s `## Related` footer.
+
+**Left alone / flagged for a future pass (lower priority, not urgent):**
+- `apps/e-devlet.md`'s `## Related` section links to `banking/tax-number.md` with nothing in the body actually connecting the two (the tax-ID application happens on a separate portal, `dijital.gib.gov.tr`, not through e-Devlet) — an orphaned pointer, not misleading, just unmotivated. Worth either dropping the link or adding a one-line body reason next session.
+- `apps/e-devlet.md` mentions a "Social Security Activation Document" available "once you're registered in the Social Security System" with no pointer for how that registration happens — nothing else in the repo covers it. A single passing mention, not a required step in a documented walkthrough, so lower priority than the fixes above.
+- All previously-flagged open items unchanged, still awaiting the repo owner: `banking/tax-number.md`'s "Address in Turkey" field ambiguity, and the 🏠 Housing placeholder bullet in root README (no dedicated directory).
+
+**Note on scope:** Link integrity, directory-README completeness, and root README navigation remain solid. This pass's fixes were a formatting/duplication cleanup, one practicality dead-end (the highest-impact of the three, given it sits on the very first documented step after landing), and one reciprocal-link gap — consistent with the shrinking-issue-count trend of recent sessions.
