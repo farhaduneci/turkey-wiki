@@ -4,7 +4,7 @@
 
 e-Devlet (e-Government) is Turkey's online portal for government services — you can pull your Address Registration Certificate, a Student Enrollment Certificate, a Social Security activation document, book public hospital appointments, and more, all without visiting an office in person.
 
-> ⚠️ You need an active residence permit application (a foreigner ID number tied to a registered address) before you can get e-Devlet access. Children under 15 can't log in on their own — a parent can collect documents for them if the child already has a foreign ID number and a registered address.
+> ⚠️ You need an active residence permit application (a foreigner ID number, issued once you've filed the application) before you can get e-Devlet access — your address doesn't need to be registered in person yet; that's a separate later step, see [Address Registration](../visa/address-registration.md). Children under 15 can't log in on their own — a parent can collect documents for them if the child already has a foreigner ID number.
 
 ## Getting a Password
 
@@ -24,7 +24,6 @@ Once logged in, useful things to pull for other procedures in this wiki:
 
 - [Address Registration & Information Updates](../visa/address-registration.md)
 - [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md)
-- [Turkish Tax Number](../banking/tax-number.md)
 
 ## Sources
 

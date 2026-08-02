@@ -41,7 +41,7 @@ At the office, you generally just show your appointment confirmation to the offi
 
 **UETS** (the national electronic notification address, "e-Tebligat adresi") is only required if you already hold a residence permit, or held one within the last two months — e.g. for **renewal** applications. If this is your **first-time** application, you don't have one yet and it's not required.
 
-If you do need it later, you can get it at Sarıyer PTT with your passport, residence permit card, and Turkish phone number — say "**Göç İdaresi için UETS belgesi almak istiyorum**" (I'd like a UETS document for the Migration Directorate).
+If you do need it later, you can get it at a PTT branch (I did mine at a branch in Sarıyer, but this is likely offered at any branch — not confirmed) with your passport, residence permit card, and Turkish phone number — say "**Göç İdaresi için UETS belgesi almak istiyorum**" (I'd like a UETS document for the Migration Directorate).
 
 Once your address is registered, you can pull an **Address Registration Certificate (Adres Belgesi / İkametgah)** from [e-Devlet](../apps/e-devlet.md) — you can't get this certificate before the in-person appointment is done.
 
