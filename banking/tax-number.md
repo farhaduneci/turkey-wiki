@@ -9,7 +9,7 @@ Get a [SIM card](../internet/sim-cards-and-mobile-data.md) first — the online 
 3. Click **Potential Tax Identification Number Application** (the foreigners option)
 4. Or go directly: https://dijital.gib.gov.tr/foreigners/kimlikNoBasvuru
 
-**Required fields:**
+**Required fields** (may change):
 - Full name and surname (exactly as in your passport)
 - Father's name
 - Mother's name
@@ -27,7 +27,7 @@ After submitting, the system immediately issues a 10-digit tax number — labele
 
 ## In-Person Alternative
 
-You can also get a tax number by visiting any local Tax Office (Vergi Dairesi) — the transaction usually takes about 15 minutes.
+You can also get a tax number by visiting any local Tax Office (Vergi Dairesi) — the transaction usually takes about 15 minutes (procedures and timing may change).
 
 ## Related
 

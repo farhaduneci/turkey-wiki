@@ -8,7 +8,7 @@ e-Devlet (e-Government) is Turkey's online portal for government services — yo
 
 ## Getting a Password
 
-- **In person (PTT / post office):** the simplest route. Go to any PTT branch with your passport, residence permit card, and an active Turkish phone number, and say "**e-Devlet şifresi almak istiyorum**" (I'd like to get an e-Devlet password). Staff will register your Turkish phone number and text you the password — this cost around **2 TL** as of writing (may change).
+- **In person (PTT / post office):** the simplest route. Go to any PTT branch with your passport, residence permit card (or application document if still pending — see the note above), and an active Turkish phone number, and say "**e-Devlet şifresi almak istiyorum**" (I'd like to get an e-Devlet password). Staff will register your Turkish phone number and text you the password — this cost around **2 TL** as of writing (may change).
 - **Internet banking:** if you already have a Turkish bank account with internet banking set up, you can skip the PTT step — the e-Devlet login page has an internet banking option that lets you in directly.
 
 ## Documents You Can Collect
