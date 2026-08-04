@@ -14,7 +14,7 @@ This page covers the appointment/registration step, not the initial application.
 
 ## Book an Appointment
 
-Foreigners with a residence permit, work permit, or international/temporary protection status book these appointments through the migration directorate's own system, not the general civil registry one:
+Foreigners with a residence permit (or a pending residence permit application), work permit, or international/temporary protection status book these appointments through the migration directorate's own system, not the general civil registry one:
 
 - **[randevu.goc.gov.tr](https://randevu.goc.gov.tr/#/homepage)** — the official Göç Randevu appointment system for the Provincial Directorate of Migration Management (PDMM/İl Göç İdaresi). Use it for address registration, information updates, fingerprinting, and other residence-permit-related procedures.
 
