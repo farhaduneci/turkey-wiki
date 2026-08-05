@@ -14,14 +14,14 @@ Every translated document in Turkey must then be notarized at a **noter** (notar
 
 Every page going through the noter must carry the office's **embossing seal** (*kabartma mühür* in Turkish) — a physical press that leaves a raised impression directly in the paper, with no ink. It's distinct from a regular rubber stamp. Make sure every page has it before you leave the noter; a page without it won't be considered properly notarized.
 
-## Further Reading
-
-The UK government's guide on certifying documents is worth reading regardless of which country you're dealing with — the principles apply to Turkey as well:
-https://www.gov.uk/certifying-a-document
-
 ## Related
 
 - [Date and Number Formats in Turkey](date-number-formats.md)
 - [Keeping Copies of Your Documents](document-management.md)
 - [The 90-Day Legal Stay Limit](../visa/90-day-legal-stay.md)
 - [Finding and Registering at a University in Istanbul](../student-life/finding-and-registering-university.md) — where this mistake is most likely to bite: diploma/transcript translation for registration
+
+## Sources
+
+The UK government's guide on certifying documents is worth reading regardless of which country you're dealing with — the principles apply to Turkey as well:
+https://www.gov.uk/certifying-a-document

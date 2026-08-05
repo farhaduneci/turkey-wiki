@@ -44,7 +44,7 @@ Turkey registers phones by **IMEI**, separately from the SIM. A foreign phone's 
 
 Once you've rented a place, home broadband options run around **1,200 TL/month** for an unlimited connection, plus roughly **1,000 TL** in setup/registration fees on top (both figures are rough — get a current quote from the provider).
 
-- **Türk Telekom locks you into an 18-month contract** — factor that in before signing up, especially if your stay is uncertain.
+- **Türk Telekom locks you into an 18-month contract** — factor that in before signing up, especially if your stay is uncertain (contract terms vary by provider and may change — confirm before signing).
 - Of the providers I compared, **TurkNet** had the best overall deal and wasn't locked in the same way — worth checking first.
 
 ## Mobile LTE Hotspots / Modems
