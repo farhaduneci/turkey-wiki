@@ -20,6 +20,7 @@ Getting a bank account independently seems difficult. Many people go through imm
 
 - [Turkish Tax Number](tax-number.md) — required before opening an account
 - [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md) — required before the tax number
+- [Address Registration & Information Updates](../visa/address-registration.md) — hits the same utility-bill-not-in-your-name issue
 
 ## Sources
 

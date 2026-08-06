@@ -20,6 +20,8 @@ Once logged in, useful things to pull for other procedures in this wiki:
 - **Social Security Activation Document** — available once you're registered in the Social Security System.
 - **IMEI registration** for a foreign phone — see [SIM Cards, eSIM & Mobile Data](../internet/sim-cards-and-mobile-data.md#imei-registration-important--affects-your-phone-not-just-the-sim).
 
+**Not covered above:** e-Devlet can also be used to book public hospital appointments (MHRS), but I haven't personally used that flow, so this wiki doesn't walk through it yet.
+
 ## Related
 
 - [Address Registration & Information Updates](../visa/address-registration.md)
