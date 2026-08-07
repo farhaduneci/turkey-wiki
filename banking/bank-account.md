@@ -6,7 +6,7 @@ Get a SIM card first (its phone number is a required field on the tax number app
 
 Harder than expected. I tried several Ziraat Bank branches and others — most turned me away at the door. The one branch that let me in asked for a utility bill (electricity or water) as proof of address — see the note in [Address Registration](../visa/address-registration.md#required-documents) if the account isn't already in your name, which is common right after signing a new lease.
 
-**Documents to bring** (requirements vary by branch and may change): a housing document (notarized rental contract, or a document from your university's housing department) and a photo ID such as your KU/university ID card or [Student Enrollment Certificate](../apps/e-devlet.md#documents-you-can-collect) (helpful, not always required). At the branch, take a queue number from the ticket dispenser — most have an English-language option.
+**Documents to bring** (requirements vary by branch and may change): your **passport**, a housing document (notarized rental contract, or a document from your university's housing department), and — if you have one — a secondary photo ID such as your KU/university ID card or [Student Enrollment Certificate](../apps/e-devlet.md#documents-you-can-collect) (helpful, not always required; non-students can generally rely on the passport alone). At the branch, take a queue number from the ticket dispenser — most have an English-language option.
 
 **Before your residence permit is ready:** if you need an account urgently and don't have your residence permit card yet, the state-owned banks — **Ziraat Bankası**, **Halkbank**, and **VakıfBank** — are more likely to open an account for you than private banks.
 

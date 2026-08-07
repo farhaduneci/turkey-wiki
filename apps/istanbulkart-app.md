@@ -6,7 +6,7 @@ Separate from the physical [Istanbulkart](../transportation/istanbulkart.md) car
 
 ## Applying for the Student Card
 
-Once you have an **open residence permit application** (you don't need the permit itself yet, just an active application in the system) and your student status is registered, you become eligible to apply for the discounted student card — see [İstanbul Senin App](istanbul-senin-app.md), which is where the Kart application itself is submitted.
+Once you have an **open residence permit application** (you don't need the permit itself yet, just an active application in the system) and your student status is registered, you become eligible to apply for the discounted student card — see [İstanbul Senin App](istanbul-senin-app.md), which is where the Kart application itself is submitted. I'm not sure exactly how or when "student status" gets registered in the system — for me it happened automatically after enrolling, without a separate step I took — so if it doesn't show up on its own, checking with your university's international office is probably the next move.
 
 After approval, the physical card isn't handed to you in person — it's mailed to the address you registered, via **PTT** (the Turkish postal service).
 

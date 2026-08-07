@@ -18,8 +18,9 @@ Get a [SIM card](../internet/sim-cards-and-mobile-data.md) first — the online 
 - Passport issue and expiry dates
 - Phone number
 - Address in Turkey
+- Identity Number (leave empty if you don't have a Turkish residence permit yet)
 
-If you don't have a Turkish residence permit yet, leave the "Identity Number" field empty. Use the exact info as written on your passport — no Turkish characters (e.g. "İ") — and enter dates as DD/MM/YYYY, using the calendar picker if you're unsure of the format. Make sure cookies and pop-ups are enabled in your browser: your tax number is issued as an official PDF letter, and the page can't deliver it if pop-ups are blocked.
+Use the exact info as written on your passport — no Turkish characters (e.g. "İ") — and enter dates as DD/MM/YYYY, using the calendar picker if you're unsure of the format. Make sure cookies and pop-ups are enabled in your browser: your tax number is issued as an official PDF letter, and the page can't deliver it if pop-ups are blocked.
 
 After submitting, the system immediately issues a 10-digit tax number — labeled either **T.C./Vergi Kimlik Numarası** or **Potansiyel Vergi Kimlik Numarası** on the document.
 
