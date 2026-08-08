@@ -33,7 +33,7 @@ To register at a private university, you'll typically need:
 
 ### Photo requirements
 
-These aren't your home country's standard passport photo size — Turkey uses its own dimensions (roughly 5×6 cm from what I've seen, but confirm the exact spec yourself before getting them printed). They also need to be biometric: ears visible and clear, lips clear, eyes clear. Getting a compliant photo accepted on the residence permit application website can be more finicky than it sounds — budget extra time for this step if your first attempt gets rejected.
+These aren't your home country's standard passport photo size — Turkey uses its own dimensions (roughly 5×6 cm from what I've seen, but confirm the exact spec yourself before getting them printed). They also need to be biometric: ears visible and clear, lips clear, eyes clear. Getting a compliant photo accepted on the [residence permit application website](../visa/address-registration.md#submitting-the-application-itself) can be more finicky than it sounds — budget extra time for this step if your first attempt gets rejected.
 
 ## Finding a University
 
